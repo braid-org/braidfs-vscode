@@ -1,2 +1,1 @@
-# braidfs-vscode
-BraidFS extension for VS Code
+# braidfs README
